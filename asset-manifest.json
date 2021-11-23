@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/Stackline-Assessment/static/js/main.bc6b9eff.chunk.js",
+    "main.js.map": "/Stackline-Assessment/static/js/main.bc6b9eff.chunk.js.map",
+    "runtime-main.js": "/Stackline-Assessment/static/js/runtime-main.c5c8aa1d.js",
+    "runtime-main.js.map": "/Stackline-Assessment/static/js/runtime-main.c5c8aa1d.js.map",
+    "static/js/2.6b613a34.chunk.js": "/Stackline-Assessment/static/js/2.6b613a34.chunk.js",
+    "static/js/2.6b613a34.chunk.js.map": "/Stackline-Assessment/static/js/2.6b613a34.chunk.js.map",
+    "index.html": "/Stackline-Assessment/index.html",
+    "static/js/2.6b613a34.chunk.js.LICENSE.txt": "/Stackline-Assessment/static/js/2.6b613a34.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c5c8aa1d.js",
+    "static/js/2.6b613a34.chunk.js",
+    "static/js/main.bc6b9eff.chunk.js"
+  ]
+}
